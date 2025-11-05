@@ -1,3 +1,5 @@
+'use client'
+import { CldImage } from 'next-cloudinary';
 import { projectEntries } from "@/constants/portfolioEnteries";
 import { ArrowUpRight } from "lucide-react";
 import Image from "next/image";
@@ -21,7 +23,7 @@ export default function ProjectsSection() {
                     </Link>{" "}
                 </p>
                 </div>
-                <Image
+                <CldImage
                 src={entry.projectImage}
                 height={400}
                 width={1200}

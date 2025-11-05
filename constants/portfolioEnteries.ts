@@ -2,7 +2,8 @@ export const projectEntries = [
   {
     id: 1,
     projectName: "Beyond The Savannah",
-    projectImage: "/imgs/beyond the savannah.webp",
+    // projectImage: "/imgs/beyond the savannah.webp",
+    projectImage: "beyond_the_savannah_i5idx8",
     projectWebsiteLink: "https://beyondthesavannah.co.ke",
     projectTagLineHeader:
       "Beyond The Savannah: Explore A World Of Remote Opportunities And Level Up Your Career.",
@@ -20,7 +21,8 @@ export const projectEntries = [
   {
     id: 2,
     projectName: "Kosi Africa",
-    projectImage: "/imgs/Kosi Africa.webp",
+    // projectImage: "/imgs/Kosi Africa.webp",
+    projectImage: "Kosi_Africa_v0ulsf",
     projectWebsiteLink: "https://kosiafrica.org",
     projectTagLineHeader:
       "Kosi Africa: Supporting Education and Empowering Communities",
@@ -38,7 +40,8 @@ export const projectEntries = [
   {
     id: 3,
     projectName: "Kinetic Education",
-    projectImage: "/imgs/Kinetic Education.webp",
+    // projectImage: "/imgs/Kinetic Education.webp",
+    projectImage: "Kinetic_Education_mkncdh",
     projectWebsiteLink: "https://kinetic.education",
     projectTagLineHeader:
       "Kinetic Education: Educating the Next Future Entrepreneurs",
@@ -58,7 +61,8 @@ export const projectEntries = [
   {
     id: 4,
     projectName: "Hawi Designs",
-    projectImage: "/imgs/Hawi Designs.webp",
+    // projectImage: "/imgs/Hawi Designs.webp",
+    projectImage: "Hawi_Designs_xguaha",
     projectWebsiteLink: "https://hawidesigns.com",
     projectTagLineHeader:
       "Hawi Designs: Showcasing Handcrafted Excellence with Purpose",
@@ -77,7 +81,8 @@ export const projectEntries = [
   {
     id: 5,
     projectName: "Ali Monjack",
-    projectImage: "/imgs/Ali Monjack.webp",
+    // projectImage: "/imgs/Ali Monjack.webp",
+    projectImage: "Ali_Monjack_t2btvs",
     projectWebsiteLink: "https://alimonjack.com/",
     projectTagLineHeader:
       "Ali Monjack: A Personal Brand Website for a Media Communications Expert",
@@ -94,7 +99,8 @@ export const projectEntries = [
   {
     id: 6,
     projectName: "Egovernance Plus",
-    projectImage: "/imgs/Egoverance Plus .webp",
+    // projectImage: "/imgs/Egoverance Plus .webp",
+    projectImage: "Egoverance_Plus_izydia",
     projectWebsiteLink: "https://egovernanceplus.com",
     projectTagLineHeader:
       "Egovernance Plus: Ensuring Compliance for Healthcare and Social Care Workers",

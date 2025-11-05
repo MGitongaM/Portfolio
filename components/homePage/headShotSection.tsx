@@ -1,12 +1,14 @@
-import Image from "next/image";
+'use client'
+import { CldImage } from 'next-cloudinary';
 
 export default function HeadShotSection() {
   return (
     <section className=" ">
         <div className="max-w-5xl mx-auto px-4">
             <div className="relative">
-                <Image
-                src={"/imgs/Michael head shot.webp"}
+               
+                <CldImage
+                src={"Michael_head_shot_enbefw"}
                 height={150}
                 width={150}
                 alt="Michael Gitonga Mbae"
