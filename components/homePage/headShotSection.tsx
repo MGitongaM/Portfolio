@@ -8,11 +8,11 @@ export default function HeadShotSection() {
             <div className="relative">
                
                 <CldImage
-                src={"Michael_head_shot_enbefw"}
-                height={150}
-                width={150}
+                src={"Michael-head-shot_dospni"}
+                height={200}
+                width={200}
                 alt="Michael Gitonga Mbae"
-                className=" bg-gray-500 bg-contain rounded-md -mt-20"
+                className="  bg-cover rounded-md -mt-20"
                 />
             
             </div>
