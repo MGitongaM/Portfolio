@@ -7,7 +7,6 @@ const nextConfig: NextConfig = {
 
   output: "export", // Required for static export
   basePath: isProduction ? "/Portfolio" : "",
-  assetPrefix: isProduction ? "/Portfolio" : "",
   images: {
     unoptimized: true, // Required for static export
   },
