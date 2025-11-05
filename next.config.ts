@@ -1,12 +1,12 @@
 import type { NextConfig } from "next";
 
-const isProduction = process.env.NODE_ENV === "production";
+const isProd = process.env.NODE_ENV === "production";
 
 const nextConfig: NextConfig = {
   /* config options here */
 
   output: "export", // Required for static export
-  basePath: isProduction ? "/Portfolio" : "",
+  basePath: isProd ? "/Portfolio" : "",
   images: {
     unoptimized: true, // Required for static export
   },
