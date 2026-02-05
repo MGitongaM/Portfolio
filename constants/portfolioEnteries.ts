@@ -58,44 +58,44 @@ export const projectEntries = [
       "Survey Integration: Played an instrumental role in integrating a survey feature designed to collect user feedback, particularly from students, enhancing our understanding of platform usage and informing future enhancements.",
     ],
   },
-  {
-    id: 4,
-    projectName: "Hawi Designs",
-    // projectImage: "/imgs/Hawi Designs.webp",
-    projectImage: "Hawi_Designs_xguaha",
-    projectWebsiteLink: "https://hawidesigns.com",
-    projectTagLineHeader:
-      "Hawi Designs: Showcasing Handcrafted Excellence with Purpose",
-    projectIntroduction:
-      "Hawi Designs is an eCommerce platform that celebrates handcrafted products while sharing the compelling stories of the artisans behind them. Beyond enabling seamless purchasing, the site highlights the profound social impact achieved by its founder and the positive change the brand is driving in local communities.",
-    myRoleIntroduction:
-      "As a developer, I provided strategic advice on selecting a cost-effective hosting platform and tools that optimized the website's performance while minimizing expenses. Key highlights of the site include:",
-    myProjectContribution: [
-      "WooCommerce Integration: Streamlines order, sales, and purchase management for an enhanced shopping experience.",
-      "PayPal Integration: Enables secure, user-friendly payment processing.",
-      "SEO Optimization: Ensures product pages are easily discoverable and optimized for sharing, driving organic traffic.",
-      "Blog Section: Engages users and boosts traffic with compelling content about the products and their impact.",
-      "Google Analytics Integration: Delivers valuable insights into user behavior, including device usage, traffic sources, and the site's most popular pages.",
-    ],
-  },
-  {
-    id: 5,
-    projectName: "Ali Monjack",
-    // projectImage: "/imgs/Ali Monjack.webp",
-    projectImage: "Ali_Monjack_t2btvs",
-    projectWebsiteLink: "https://alimonjack.com/",
-    projectTagLineHeader:
-      "Ali Monjack: A Personal Brand Website for a Media Communications Expert",
-    projectIntroduction:
-      "This personal brand website highlights Ali Monjack's extensive journalistic career and expertise as a media communications strategist. It showcases the wide range of services Ali offers to individuals and organizations while reflecting her passion for supporting social causes.",
-    myRoleIntroduction:
-      "As the site's developer, I crafted a design that effectively presents Ali's work, her advocacy for social impact, and what clients can expect from her services. Key features of the site include:",
-    myProjectContribution: [
-      "Engaging Design: Developed a layout that elegantly balances her professional portfolio with her personal interests and social impact stories.",
-      "Performance Optimization: Implemented techniques to ensure fast-loading pages for a seamless user experience.",
-      "Integrated Blog Section: Created a dedicated space for Ali's writings, complete with shareable call-to-action buttons to promote her posts across major social platforms.",
-    ],
-  },
+  // {
+  //   id: 4,
+  //   projectName: "Hawi Designs",
+  //   // projectImage: "/imgs/Hawi Designs.webp",
+  //   projectImage: "Hawi_Designs_xguaha",
+  //   projectWebsiteLink: "https://hawidesigns.com",
+  //   projectTagLineHeader:
+  //     "Hawi Designs: Showcasing Handcrafted Excellence with Purpose",
+  //   projectIntroduction:
+  //     "Hawi Designs is an eCommerce platform that celebrates handcrafted products while sharing the compelling stories of the artisans behind them. Beyond enabling seamless purchasing, the site highlights the profound social impact achieved by its founder and the positive change the brand is driving in local communities.",
+  //   myRoleIntroduction:
+  //     "As a developer, I provided strategic advice on selecting a cost-effective hosting platform and tools that optimized the website's performance while minimizing expenses. Key highlights of the site include:",
+  //   myProjectContribution: [
+  //     "WooCommerce Integration: Streamlines order, sales, and purchase management for an enhanced shopping experience.",
+  //     "PayPal Integration: Enables secure, user-friendly payment processing.",
+  //     "SEO Optimization: Ensures product pages are easily discoverable and optimized for sharing, driving organic traffic.",
+  //     "Blog Section: Engages users and boosts traffic with compelling content about the products and their impact.",
+  //     "Google Analytics Integration: Delivers valuable insights into user behavior, including device usage, traffic sources, and the site's most popular pages.",
+  //   ],
+  // },
+  // {
+  //   id: 5,
+  //   projectName: "Ali Monjack",
+  //   // projectImage: "/imgs/Ali Monjack.webp",
+  //   projectImage: "Ali_Monjack_t2btvs",
+  //   projectWebsiteLink: "https://alimonjack.com/",
+  //   projectTagLineHeader:
+  //     "Ali Monjack: A Personal Brand Website for a Media Communications Expert",
+  //   projectIntroduction:
+  //     "This personal brand website highlights Ali Monjack's extensive journalistic career and expertise as a media communications strategist. It showcases the wide range of services Ali offers to individuals and organizations while reflecting her passion for supporting social causes.",
+  //   myRoleIntroduction:
+  //     "As the site's developer, I crafted a design that effectively presents Ali's work, her advocacy for social impact, and what clients can expect from her services. Key features of the site include:",
+  //   myProjectContribution: [
+  //     "Engaging Design: Developed a layout that elegantly balances her professional portfolio with her personal interests and social impact stories.",
+  //     "Performance Optimization: Implemented techniques to ensure fast-loading pages for a seamless user experience.",
+  //     "Integrated Blog Section: Created a dedicated space for Ali's writings, complete with shareable call-to-action buttons to promote her posts across major social platforms.",
+  //   ],
+  // },
   {
     id: 6,
     projectName: "Egovernance Plus",
@@ -109,9 +109,9 @@ export const projectEntries = [
     myRoleIntroduction:
       "I contributed to this project through consultation and ongoing site maintenance. Although the site was already developed, there were several challenges, the most significant being poor responsiveness across devices. My work ensured that Egovernance Plus could provide a professional, user-friendly experience while maintaining cost efficiency and functionality.",
     myProjectContribution: [
-      "nhanced Responsiveness: Improved the presentation of content sections, ensuring a seamless experience on all devices.",
+      "Enhanced Responsiveness: Improved the presentation of content sections, ensuring a seamless experience on all devices.",
       "Created New Sections: Redesigned and added new sections to align content more effectively with the target audience's needs.",
-      "mplemented a Cost-Effective Email Solution: Resolved issues with email delivery, ensuring reliable communication when new clients reached out via the contact page.",
+      "Implemented a Cost-Effective Email Solution: Resolved issues with email delivery, ensuring reliable communication when new clients reached out via the contact page.",
       "Newsletter Integration: Add mailer lite to the site where by users could receive insightful information in regards to compliance and services perks to their inbox. This was done to help foster engagement with the services being offered and client relationships.",
     ],
   },

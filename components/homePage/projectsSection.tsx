@@ -2,14 +2,14 @@
 import { CldImage } from 'next-cloudinary';
 import { projectEntries } from "@/constants/portfolioEnteries";
 import { ArrowUpRight } from "lucide-react";
-import Image from "next/image";
+// import Image from "next/image";
 import Link from "next/link";
 
 export default function ProjectsSection() {
   return (
     <div className="">
         <div className="max-w-5xl mt-1 md:mt-64 lg:mt-4 mx-auto px-4">
-        <div className="c">
+        <div className="pt-4">
             {projectEntries.map((entry) => (
             <div key={entry.id} className="mt-20  md:my-40 px-2 py-8">
                 <div className="space-y-2 mb-4">
@@ -30,11 +30,11 @@ export default function ProjectsSection() {
                 alt={`${entry.projectName} screenshot`}
                 className="bg-cover rounded-sm"
                 />
-                <div className="max-w-3xl mx-auto space-y-3 my-4">
-                <h3 className="font-semibold">{entry.projectTagLineHeader}</h3>
-                <p className="c">{entry.projectIntroduction}</p>
-                <p className="font-medium">My Role In The Project:</p>
-                <p className="c">{entry.myRoleIntroduction}</p>
+                <div className="max-w-3xl mx-auto space-y-6 my-4">
+                <h3 className="font-semibold text-xl">{entry.projectTagLineHeader}</h3>
+                <p className="text-sm">{entry.projectIntroduction}</p>
+                <p className="font-medium text-lg mb-2">My Role In The Project:</p>
+                <p className="text-sm">{entry.myRoleIntroduction}</p>
                 <ul className="list-disc space-y-2">
                     {entry.myProjectContribution.map((contribution, index) => (
                     <li key={index}>{contribution}</li>

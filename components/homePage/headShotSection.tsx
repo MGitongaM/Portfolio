@@ -18,14 +18,14 @@ export default function HeadShotSection() {
             </div>
             <div className="relative md:absolute top-10 md:top-96 lg:top-72 md:ml-56 lg:ml-72">
                 <div className="space-y-3">
-                    <h1 className="text-4xl font-semibold">Hi there, I Am Michael Gitonga. <br/> </h1>
-                    <p className="text-xl font-semibold">Let&apos;s bring your website to life and connect you with your target audience.</p>
+                    <h1 className="text-4xl font-semibold">Hi there, I am Michael Gitonga. <br/> </h1>
+                    <p className="text-xl max-w-lg font-semibold">Let&apos;s bring your website to life and connect you with your target audience.</p>
 
                 </div>
                     <div className="mt-8 space-y-2">
                     <p className="text-sm">
                         Email:
-                        <span className="font-semibold"> gitonga1993@gmail.com</span>
+                        <span className="font-semibold">michaelgitonga588@gmail.com</span>
                     </p>
                     <p className="text-sm">
                         Phone:<span className="font-semibold"> 0724 090 518</span>
