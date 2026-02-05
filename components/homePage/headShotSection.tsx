@@ -25,7 +25,7 @@ export default function HeadShotSection() {
                     <div className="mt-8 space-y-2">
                     <p className="text-sm">
                         Email:
-                        <span className="font-semibold">michaelgitonga588@gmail.com</span>
+                        <span className="font-semibold"> michaelgitonga588@gmail.com</span>
                     </p>
                     <p className="text-sm">
                         Phone:<span className="font-semibold"> 0724 090 518</span>
