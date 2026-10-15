@@ -8,7 +8,7 @@ export default function HeadShotSection() {
             <div className="relative">
                
                 <CldImage
-                src={"Michael-head-shot_dospni"}
+                src={"Michael"}
                 height={200}
                 width={200}
                 alt="Michael Gitonga Mbae"

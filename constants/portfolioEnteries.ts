@@ -3,8 +3,8 @@ export const projectEntries = [
     id: 1,
     projectName: "Beyond The Savannah",
     // projectImage: "/imgs/beyond the savannah.webp",
-    projectImage: "beyond_the_savannah_i5idx8",
-    projectWebsiteLink: "https://beyondthesavannah.co.ke",
+    projectImage: "beyondthesavannah",
+    projectWebsiteLink: "https://beyondthesavannah.com",
     projectTagLineHeader:
       "Beyond The Savannah: Explore A World Of Remote Opportunities And Level Up Your Career.",
     projectIntroduction:
@@ -22,7 +22,7 @@ export const projectEntries = [
     id: 2,
     projectName: "Kosi Africa",
     // projectImage: "/imgs/Kosi Africa.webp",
-    projectImage: "Kosi_Africa_v0ulsf",
+    projectImage: "kosiafrica",
     projectWebsiteLink: "https://kosiafrica.org",
     projectTagLineHeader:
       "Kosi Africa: Supporting Education and Empowering Communities",
@@ -39,6 +39,25 @@ export const projectEntries = [
   },
   {
     id: 3,
+    projectName: "Egovernance Plus",
+    // projectImage: "/imgs/Egoverance Plus .webp",
+    projectImage: "egovernanceplus",
+    projectWebsiteLink: "https://egovernanceplus.com",
+    projectTagLineHeader:
+      "Egovernance Plus: Ensuring Compliance for Healthcare and Social Care Workers",
+    projectIntroduction:
+      "Egovernance Plus provides vital compliance information to healthcare and social care professionals, helping their clients stay ahead of regulatory requirements in the UK.",
+    myRoleIntroduction:
+      "I contributed to this project through consultation and ongoing site maintenance. Although the site was already developed, there were several challenges, the most significant being poor responsiveness across devices. My work ensured that Egovernance Plus could provide a professional, user-friendly experience while maintaining cost efficiency and functionality.",
+    myProjectContribution: [
+      "Enhanced Responsiveness: Improved the presentation of content sections, ensuring a seamless experience on all devices.",
+      "Created New Sections: Redesigned and added new sections to align content more effectively with the target audience's needs.",
+      "Implemented a Cost-Effective Email Solution: Resolved issues with email delivery, ensuring reliable communication when new clients reached out via the contact page.",
+      "Newsletter Integration: Add mailer lite to the site where by users could receive insightful information in regards to compliance and services perks to their inbox. This was done to help foster engagement with the services being offered and client relationships.",
+    ],
+  },
+  {
+    id: 4,
     projectName: "Kinetic Education",
     // projectImage: "/imgs/Kinetic Education.webp",
     projectImage: "Kinetic_Education_mkncdh",
@@ -96,23 +115,4 @@ export const projectEntries = [
   //     "Integrated Blog Section: Created a dedicated space for Ali's writings, complete with shareable call-to-action buttons to promote her posts across major social platforms.",
   //   ],
   // },
-  {
-    id: 6,
-    projectName: "Egovernance Plus",
-    // projectImage: "/imgs/Egoverance Plus .webp",
-    projectImage: "Egoverance_Plus_izydia",
-    projectWebsiteLink: "https://egovernanceplus.com",
-    projectTagLineHeader:
-      "Egovernance Plus: Ensuring Compliance for Healthcare and Social Care Workers",
-    projectIntroduction:
-      "Egovernance Plus provides vital compliance information to healthcare and social care professionals, helping their clients stay ahead of regulatory requirements in the UK.",
-    myRoleIntroduction:
-      "I contributed to this project through consultation and ongoing site maintenance. Although the site was already developed, there were several challenges, the most significant being poor responsiveness across devices. My work ensured that Egovernance Plus could provide a professional, user-friendly experience while maintaining cost efficiency and functionality.",
-    myProjectContribution: [
-      "Enhanced Responsiveness: Improved the presentation of content sections, ensuring a seamless experience on all devices.",
-      "Created New Sections: Redesigned and added new sections to align content more effectively with the target audience's needs.",
-      "Implemented a Cost-Effective Email Solution: Resolved issues with email delivery, ensuring reliable communication when new clients reached out via the contact page.",
-      "Newsletter Integration: Add mailer lite to the site where by users could receive insightful information in regards to compliance and services perks to their inbox. This was done to help foster engagement with the services being offered and client relationships.",
-    ],
-  },
 ];
