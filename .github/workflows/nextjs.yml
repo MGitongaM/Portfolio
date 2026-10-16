@@ -24,7 +24,7 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 env:
-  NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME: dh8qlzbzk
+  NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME: hqho8qw7
 jobs:
   # Build job
   build:
