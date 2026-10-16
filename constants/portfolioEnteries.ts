@@ -3,7 +3,7 @@ export const projectEntries = [
     id: 1,
     projectName: "Beyond The Savannah",
     // projectImage: "/imgs/beyond the savannah.webp",
-    projectImage: "beyondthesavannah",
+    projectImage: "Beyond_The_Savannah",
     projectWebsiteLink: "https://beyondthesavannah.com",
     projectTagLineHeader:
       "Beyond The Savannah: Explore A World Of Remote Opportunities And Level Up Your Career.",
@@ -22,52 +22,53 @@ export const projectEntries = [
     id: 2,
     projectName: "Kosi Africa",
     // projectImage: "/imgs/Kosi Africa.webp",
-    projectImage: "kosiafrica",
+    projectImage: "Kosi_Africa",
     projectWebsiteLink: "https://kosiafrica.org",
     projectTagLineHeader:
       "Kosi Africa: Supporting Education and Empowering Communities",
     projectIntroduction:
       "Kosi Africa is a non-profit organization dedicated to advancing education, leadership, environmental sustainability, Pan-Africanism, and community volunteerism. Their mission is to mentor young people and foster youth development for a brighter and more equitable future especially in Africa",
     myRoleIntroduction:
-      "As the lead developer, I spearheaded the development of Kosi Africa's new website, transitioning the organization from a WordPress CMS to a custom-built solution. This migration addressed several challenges they previously faced and enhanced the organization's digital presence.Key contributions included:",
+      "As the lead developer, I spearheaded the development of Kosi Africa's new website, transitioning the organization from a WordPress CMS to a custom built solution. This migration addressed several challenges they previously faced and enhanced the organization's digital presence.Key contributions included:",
     myProjectContribution: [
       "Lead the development process:This entailed at picking the right frameworks and libraries needed which in turn helped in better integrations as well across the various services used throught the sitLed the development process by carefully selecting appropriate frameworks and libraries. This strategic choice enabled more efficient integration across the various services utilized throughout the site, resulting in improved performance and maintainability.",
       "SEO Optimization: Ensured all pages were optimized with appropriate meta tags, descriptions, and imagery to effectively convey the organization's mission and message.",
       "Analytics Integration: Implemented Google Analytics to track visitor demographics, behavior, and traffic sources. Additionally, Hotjar was integrated to identify user engagement patterns and highlight the most visited sections of the site.",
-      "Email Integration: Enhanced user engagement through automated email follow-ups for inquiries and a newsletter subscription feature. This allowed Kosi Africa to share curated content and updates with their audience effective",
+      "Email Integration: Enhanced user engagement through automated email follow ups for inquiries and a newsletter subscription feature. This allowed Kosi Africa to share curated content and updates with their audience effective",
     ],
   },
   {
     id: 3,
     projectName: "Egovernance Plus",
     // projectImage: "/imgs/Egoverance Plus .webp",
-    projectImage: "egovernanceplus",
+    projectImage: "Egovernance_Plus",
     projectWebsiteLink: "https://egovernanceplus.com",
     projectTagLineHeader:
       "Egovernance Plus: Ensuring Compliance for Healthcare and Social Care Workers",
     projectIntroduction:
       "Egovernance Plus provides vital compliance information to healthcare and social care professionals, helping their clients stay ahead of regulatory requirements in the UK.",
     myRoleIntroduction:
-      "I contributed to this project through consultation and ongoing site maintenance. Although the site was already developed, there were several challenges, the most significant being poor responsiveness across devices. My work ensured that Egovernance Plus could provide a professional, user-friendly experience while maintaining cost efficiency and functionality.",
+      "I contributed to this project through consultation and ongoing site maintenance. Although the site was already developed, there were several challenges, the most significant being poor responsiveness across devices. My work ensured that Egovernance Plus could provide a professional, user friendly experience while maintaining cost efficiency and functionality.",
     myProjectContribution: [
       "Enhanced Responsiveness: Improved the presentation of content sections, ensuring a seamless experience on all devices.",
       "Created New Sections: Redesigned and added new sections to align content more effectively with the target audience's needs.",
-      "Implemented a Cost-Effective Email Solution: Resolved issues with email delivery, ensuring reliable communication when new clients reached out via the contact page.",
+      "Implemented a Cost Effective Email Solution: Resolved issues with email delivery, ensuring reliable communication when new clients reached out via the contact page.",
       "Newsletter Integration: Add mailer lite to the site where by users could receive insightful information in regards to compliance and services perks to their inbox. This was done to help foster engagement with the services being offered and client relationships.",
+      "Payment Integration: Integrated a subscription based payment system, enabling users to have their compliance monitored and stay seamlessly updated with regulatory changes. "
     ],
   },
   {
     id: 4,
     projectName: "Kinetic Education",
     // projectImage: "/imgs/Kinetic Education.webp",
-    projectImage: "Kinetic_Education_mkncdh",
+    projectImage: "Kinetic_Education",
     projectWebsiteLink: "https://kinetic.education",
     projectTagLineHeader:
       "Kinetic Education: Educating the Next Future Entrepreneurs",
     projectIntroduction:
       "Kinetic Education is an ed-tech platform that helps teach the process of entrepreneurship by breaking its concepts into understandable modules for students in high school.",
     myRoleIntroduction:
-      "As a Frontend Developer, my role was focused in shaping user-centric digital experiences that seamlessly blend functionality with aesthetic appeal. My contributions were not just about coding; they were about understanding user needs and translating them into intuitive interfaces that resonate with users. Key Contributions were:",
+      "As a Frontend Developer, my role was focused in shaping user centric digital experiences that seamlessly blend functionality with aesthetic appeal. My contributions were not just about coding; they were about understanding user needs and translating them into intuitive interfaces that resonate with users. Key Contributions were:",
     myProjectContribution: [
       "User Requirements Gathering: Collaborated closely with stakeholders to gather and analyze user requirements, ensuring that the design process was rooted in real user needs and expectations.",
       "UI Development: Transformed Figma designs into dynamic, functional code, crafting visually appealing user interfaces that enhance user engagement and satisfaction.",
