@@ -16,6 +16,7 @@ export const projectEntries = [
       "SEO Optimization: Ensured major website pages and individual job listings were properly optimized for search engines. Implemented structured metadata, and open graph images, making job listings and services more discoverable and shareable across social platforms.",
       "Email Integration: Recommended an email service that the team adopted and facilitated it's implementation  to help send more personalized emails with correct information. The services also provides analytic information for the team to in case an email isn't delivered to do personal follow ups.",
       "Payment Integration: Recommended and facilitated the integration of a secure payment gateway, enabling multiple payment options for various service listings for users. This streamlined transactions, improved financial tracking, and provided a seamless checkout experience.",
+      "Internal Ticketing System: Developed an in house event ticketing system that automates ticket distribution via email, eliminating the need for paid third party vendors and significantly reducing expense of procuring external software services."
     ],
   },
   {
